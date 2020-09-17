@@ -45,6 +45,39 @@
         }
       },
       {
+        "HashCode": -14064554,
+        "Kind": "Components.Component",
+        "Name": "Registro.Pages.Index",
+        "AssemblyName": "Registro",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 1433460648,
+        "Kind": "Components.Component",
+        "Name": "Registro.Pages.Index",
+        "AssemblyName": "Registro",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Registro.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 906212448,
         "Kind": "Components.Component",
         "Name": "Registro.Pages.Counter",
@@ -111,35 +144,55 @@
         }
       },
       {
-        "HashCode": -14064554,
+        "HashCode": 1090361348,
         "Kind": "Components.Component",
-        "Name": "Registro.Pages.Index",
+        "Name": "Registro.Shared.SurveyPrompt",
         "AssemblyName": "Registro",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro.Pages.Index"
+          "Common.TypeName": "Registro.Shared.SurveyPrompt"
         }
       },
       {
-        "HashCode": 1433460648,
+        "HashCode": 1174254191,
         "Kind": "Components.Component",
-        "Name": "Registro.Pages.Index",
+        "Name": "Registro.Shared.SurveyPrompt",
         "AssemblyName": "Registro",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Registro.Pages.Index"
+            "TagName": "Registro.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro.Pages.Index",
+          "Common.TypeName": "Registro.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -269,59 +322,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Registro.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1090361348,
-        "Kind": "Components.Component",
-        "Name": "Registro.Shared.SurveyPrompt",
-        "AssemblyName": "Registro",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": 1174254191,
-        "Kind": "Components.Component",
-        "Name": "Registro.Shared.SurveyPrompt",
-        "AssemblyName": "Registro",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Registro.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
